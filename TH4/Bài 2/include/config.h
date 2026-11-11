@@ -1,7 +1,7 @@
 #pragma once
 
-#define STUDENT_NAME "Dang Quoc Tuong"
-#define SV_ID        "25119069"
+#define STUDENT_NAME "Tran Xuan Son"
+#define SV_ID        "25119054"
 
 #if __has_include("secrets.h")
 #include "secrets.h"
